@@ -17,5 +17,5 @@ Notes : Kalau di komputer anda sudah punya DBeaver Pro, pakai Edisi Pro saja tid
 
 Untuk dataset yang digunakan bisa di-eksplor pada repository ini
 
-See you on the next workshop 
+See you on the workshop, guyss. 
 
