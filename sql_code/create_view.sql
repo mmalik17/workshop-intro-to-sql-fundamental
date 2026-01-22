@@ -3,6 +3,8 @@ CREATE VIEW <nama_view> AS
 <insert_script_anda_disini>
   
 ------- EXAMPLE CODE ----------
+-- notes : sebelum execute, tabel orders, products, dan users harus sudah di create dan terisi -- 
+	
 CREATE VIEW test_view AS
 select
 	o.order_id,
